@@ -30,7 +30,7 @@
     }
   },
   "entities": {
-    "AdventureWorks ": {
+    "AdventureWorks": {
       "source": {
         "object": "SalesLT.SalesOrderDetail",
         "type": "table"
